@@ -9,3 +9,7 @@ thumbs.db
 .DS_Store
 .idea
 
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
